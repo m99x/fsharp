@@ -1,6 +1,4 @@
-﻿// Learn more about F# at http://fsharp.org
-
-open FSharp.Scanf
+﻿open FSharp.Scanf
 
 printfn "what is the ultimate answer?"
 
